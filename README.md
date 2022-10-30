@@ -8,7 +8,7 @@ git clone https://github.com/Iyaar/Devoir1_c-.git
 
 cd Devoir1_c-
 ```
-### - To build and run for mac
+### - To build and run for  terminal mac
  -->**gcc is requiered**
 ``` 
 g++ Devoir1_.cpp -o prog
