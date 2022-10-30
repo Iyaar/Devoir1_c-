@@ -6,7 +6,7 @@ Source code written in the c++ language makes it possible to find the percentage
 ```
 git clone https://github.com/Iyaar/Devoir1_c-.git
 
-cd Devoir1_c
+cd Devoir1_c-
 ```
 ### - To build and run for mac
  -->**gcc is requiered**
